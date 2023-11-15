@@ -3,3 +3,5 @@ Hello World!
 sample paragraph 2 here.
 
 text from branch2.
+
+text from branch3.
